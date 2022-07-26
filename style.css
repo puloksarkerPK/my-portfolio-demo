@@ -1,0 +1,38 @@
+body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.red-color {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 60%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: black;
+    background-color: rgb(212, 7, 130);
+    padding: 10px 40px;
+    font-weight: 800;
+    border-radius: 10px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
